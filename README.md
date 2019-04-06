@@ -10,9 +10,9 @@ Author: [Wesley Mendes](https://github.com/WesGtoX)
 
 ## Run the Game
 
->Install [`Python 3.x.x`](https://www.python.org/)
->Install PyGame: `pip install pygame`
->run the game: `python run snake.py`
+>Install [`Python 3.x.x`](https://www.python.org/)  
+>Install PyGame: `pip install pygame`  
+>run the game: `python run snake.py`  
 
 ## License ##
 
